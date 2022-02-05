@@ -1,0 +1,22 @@
+{
+  "name": "@iecho-cli-dev/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "echo <545251839@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from core\""
+  },
+  "dependencies": {
+    "@iecho-cli-dev/utils": "^1.0.0"
+  }
+}
